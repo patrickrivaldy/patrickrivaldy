@@ -1,5 +1,5 @@
 <h3>Halo, 👋</h3>
-Saya adalah seorang pengembang yang memiliki ketertarikan mendalam terhadap logika di balik berjalannya sebuah sistem. Saat ini, saya fokus membangun fondasi yang kuat dalam rekayasa perangkat lunak.
+Saya adalah seorang pengembang yang memiliki ketertarikan mendalam terhadap logika di balik berjalannya sebuah sistem. Saat ini, saya fokus membangun fondasi yang kuat untuk belajar reverse engineering lebih mendalam.
 
 <h2>💻 Learn:</h2>
 <div align="left">
